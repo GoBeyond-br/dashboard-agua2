@@ -1,0 +1,26 @@
+{
+  "name": "Dashboard Gerencial - Pedidos de Água",
+  "short_name": "Água Imbiribeira",
+  "description": "Dashboard gerencial de pedidos de água do Complexo da Imbiribeira",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#f3f6fa",
+  "theme_color": "#102a43",
+  "lang": "pt-BR",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
